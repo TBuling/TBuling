@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <b>🕹&nbsp; gaming &nbsp;•&nbsp; ⚽&nbsp; football &nbsp;•&nbsp; 💻&nbsp; coding &nbsp;👾</b>
+  <b>🕹&nbsp; gaming &nbsp;•&nbsp; ⚽&nbsp; football &nbsp;•&nbsp; 💻&nbsp; coding &nbsp;</b>
 </p>
 
 ### // LANGUAGES

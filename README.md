@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/nY8Puv6V32EAAAAd/messi-autista-messi.gif" alt="Autistic Messi" width="150">
 </p>
 
-<h1 align="center">Name's Tristan</h1>
+<h1 align="center">Tristan here</h1>
 <h3 align="center">2nd Year Computer Engineering Student</h3>
 <h4 align="center">Mapua Malayan Colleges Mindanao</h4>
 

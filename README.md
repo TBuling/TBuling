@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/messi-cute-roll-tired-gif-13407016" alt="Autistic Messi" width="150">
+  <img src="https://tenor.com/4pWm.gif" alt="Autistic Messi" width="150">
 </p>
 
 <h1 align="center">Name's Tristan</h1>
